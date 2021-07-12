@@ -5,8 +5,8 @@
 Conteúdos
 ==========
 <!--ts-->
-   * [DataBase](https://github.com/ItaloG/Cadastro-contatos-JS/blob/main/Fronend/db.sql)
-   * [JavaScript](https://github.com/ItaloG/Cadastro-contatos-JS/blob/main/Fronend/contatos.js)
+   * [DataBase](https://github.com/EliasCPR/Cadastro-contatos-JS/blob/main/Fronend/db.sql)
+   * [JavaScript](https://github.com/EliasCPR/Cadastro-contatos-JS/blob/main/Fronend/contatos.js)
 <!--te-->
 
 ### 🛠 Tecnologias
